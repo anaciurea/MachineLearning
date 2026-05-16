@@ -1,6 +1,6 @@
 # MachineLearning
 
-This is my project for the **Artificial Intelligence** course at the Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest (Series CC, Year 3).
+This is my project for the **Artificial Intelligence** course at the Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest).
 
 The goal was to apply a full ML pipeline on the **Job Salary Prediction Dataset** — from data exploration all the way to model evaluation.
 
